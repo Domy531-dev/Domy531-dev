@@ -7,3 +7,4 @@ Me chamo Vinícius Muniz Silva Souza Sou desenvolvedor apaixonado por tecnologia
 
 ## 📊 Estatisticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=domy531-dev&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domy531-dev&layout=donut-vertical)]
