@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Eu me chamo Vinícius Muniz Silva Souza Sou desenvolvedor apaixonado por tecnologia, domino HTML, CSS, JavaScript, React, Node.js, Flutter e Python. Sempre buscando evoluir e inovar! Me siga no Github "[Domy531-dev](https://github.com/Domy531-dev)", e me sigam tambem no Linkdin "[Vinicius Silva](https://www.linkedin.com/in/vinicius-silva-8a1b6a334/)".
+Eu me chamo Vinícius Muniz Silva Souza Sou desenvolvedor apaixonado por tecnologia, dominio HTML, CSS, JavaScript, React, Node.js, Flutter e Python. Sempre buscando evoluir e inovar! Me siga no Github "[Domy531-dev](https://github.com/Domy531-dev)", e me sigam tambem no Linkdin "[Vinicius Silva](https://www.linkedin.com/in/vinicius-silva-8a1b6a334/)".
 
 
 ## 📊 Estatisticas
