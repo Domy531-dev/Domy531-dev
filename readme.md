@@ -48,12 +48,20 @@
 ## 🌍 English Version
 Hi, I’m **Vinicius Munuiz**, a passionate **FullStack Developer**.  
 I work with **React, Node.js, Flutter, PHP, Python** and more.  
-Always learning, building, and open to **freelance work and collaborations**.  
+Always learning, building, and open to **freelance work and collaborations**.
 
 📩 Contact me: **viniciussilva775.vs@gmail.com**  
 🌐 Portfolio: [viniciusmuniz.netlify.app](https://viniciusmuniz.netlify.app)  
 💼 LinkedIn: [Vinicius Muniz](https://linkedin.com/in/vinicius-silva)  
 
+## 🌍 Español versión
+Hola, soy **Vinicius Munuiz**, un apasionado Desarrollador FullStack**.
+Trabajo con React, Node.js, Flutter, PHP, Python** y mucho más.
+Siempre aprendiendo, creando y abierto a trabajos freelance y colaboraciones.
+
+📩 Contáctame: **viniciussilva775.vs@gmail.com**
+🌐 Portafolio: [viniciusmuniz.netlify.app](https://viniciusmuniz.netlify.app).
+💼 LinkedIn: [Vinicius Muniz](https://linkedin.com/in/vinicius-silva).
 ---
 
 ⭐ Se curtiu meus projetos, não esqueça de dar um **star** nos repositórios!  
