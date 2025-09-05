@@ -10,7 +10,7 @@
 
 🌐 Portfólio: [viniciusmuniz.netlify.app](https://viniciusmuniz.netlify.app)  
 📩 E-mail: viniciussilva775.vs@gmail.com  
-💼 LinkedIn: [Vinicius Muniz](https://linkedin.com/in/vinicius-silva)  
+💼 LinkedIn: [Vinicius Muniz](https://www.linkedin.com/in/vinicius-silva-8a1b6a334/)  
 
 ---
 
@@ -61,9 +61,9 @@ Siempre aprendiendo, creando y abierto a trabajos freelance y colaboraciones.
 
 📩 Contáctame: **viniciussilva775.vs@gmail.com**
 
-🌐 Portafolio: [viniciusmuniz.netlify.app](https://viniciusmuniz.netlify.app).
+🌐 Portafolio: [viniciusmuniz.netlify.app](https://viniciusmuniz.netlify.app)
 
-💼 LinkedIn: [Vinicius Muniz](https://www.linkedin.com/in/vinicius-silva-8a1b6a334/).
+💼 LinkedIn: [Vinicius Muniz](https://www.linkedin.com/in/vinicius-silva-8a1b6a334/)
 ---
 
 ⭐ Se curtiu meus projetos, não esqueça de dar um **star** nos repositórios!  
